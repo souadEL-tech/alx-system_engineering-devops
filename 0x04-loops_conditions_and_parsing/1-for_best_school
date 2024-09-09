@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # display "Best school" 10 times using for loop.
 
 for (( i=0; i<10; i++ ))
