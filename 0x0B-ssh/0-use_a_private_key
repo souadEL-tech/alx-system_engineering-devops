@@ -2,4 +2,3 @@
 # bash xcript to connect to server using ssh pair key
 
 ssh -i /root/.ssh/school ubuntu@100.25.142.94
-
