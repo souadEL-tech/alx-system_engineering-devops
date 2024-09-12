@@ -1,0 +1,8 @@
+
+Host souadserver
+	HostName 100.25.142.94
+	User ubuntu
+	PasswordAuthentication no
+	PubkeyAuthentication yes
+	Port 22
+	IdentityFile ~/.ssh/school
